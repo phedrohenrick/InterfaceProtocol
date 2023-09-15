@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author phedr
+ *
+ */
+module InterfaceProtocol {
+}
